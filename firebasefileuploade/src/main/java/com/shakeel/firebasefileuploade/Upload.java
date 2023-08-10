@@ -13,6 +13,9 @@ public class Upload {
         this.uri = uri;
     }
 
+    public Upload() {
+    }
+
     public Upload(byte[] bytes) {
         this.bytes = bytes;
     }
