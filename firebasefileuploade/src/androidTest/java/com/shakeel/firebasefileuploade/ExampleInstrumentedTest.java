@@ -1,4 +1,4 @@
-package com.shakeel.stoast;
+package com.shakeel.firebasefileuploade;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.shakeel.stoast.test", appContext.getPackageName());
+        assertEquals("com.shakeel.firebasefileuploade.test", appContext.getPackageName());
     }
 }

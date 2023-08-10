@@ -1,4 +1,4 @@
-package com.shakeel.stoast;
+package com.shakeel.firebasefileuploade;
 
 import org.junit.Test;
 

@@ -1,10 +1,9 @@
 package com.shakeel.firebasefileuploader;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
-import com.shakeel.stoast.Toaster;
+import androidx.appcompat.app.AppCompatActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toaster.simpleToast(this, "Hello its my first library");
+
     }
 }
